@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Micah Van Deusen](mailto:micah.vandeusen@owasp.org)
+* [Travis Wendling](mailto:travis.wendling@owasp.org)
+* [Ted Graves](mailto:ted.graves@owasp.org)
