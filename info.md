@@ -1,4 +1,4 @@
 ### Social Links
-* [Meetup](https://www.meetup.com/owasp-cedar-rapids-chapter/)
+* [Meetup](https://www.meetup.com/meetup-group-jhdjtxgf/)
 
 
