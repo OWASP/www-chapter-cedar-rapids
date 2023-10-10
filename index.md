@@ -3,6 +3,7 @@
 layout: col-sidebar
 title: OWASP Cedar Rapids
 region: North America
+country: USA
 meetup-group: owasp-cedar-rapids-chapter
 
 ---
